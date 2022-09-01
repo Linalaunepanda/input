@@ -1,18 +1,18 @@
 {
-    "Close": "Schliessen",
-    "Enter": "Enter",
-    "Find us here": "Finde uns hier",
+    "Close": "Schliessen", "Cerrar"
+    "Enter": "Enter", "Enter"
+    "Find us here": "Finde uns hier", "Encuentranos aquí"
     "Form Submitted": "Formular abgeschickt",
-    "Legal Notice": "Impressum",
-    "Next": "Weiter",
-    "Please enter a valid email.": "Bitte gib eine gültige E-Mail-Adresse ein.",
-    "Please enter a valid link.": "Bitte gib einen gültigen Link ein.",
-    "Please enter a valid number.": "Bitte gib eine gültige Zahl ein.",
-    "Please enter a valid phone number.": "Bitte gib eine gültige Telefonnummer ein.",
-    "Please select an option.": "Bitte wähle eine Option aus.",
-    "Privacy Policy": "Datenschutzerklärung",
-    "Something went wrong validating your input": "Es ist etwas schief gelaufen beim Validieren deiner Eingabe.",
-    "Submit": "Absenden",
-    "This field is required.": "Dieses Feld ist erforderlich.",
-    "You have exceeded the maximum number of characters allowed.": "Du hast die maximale Anzahl von Zeichen überschritten."
+    "Legal Notice": "Impressum", "Aviso Legal"
+    "Next": "Weiter", "Siguiente"
+    "Please enter a valid email.": "Bitte gib eine gültige E-Mail-Adresse ein.", "Porfavor ingresa una direccion de e-mail válida."
+    "Please enter a valid link.": "Bitte gib einen gültigen Link ein.", "Porfavor ingrasa un enlance válido."
+    "Please enter a valid number.": "Bitte gib eine gültige Zahl ein.", "Profavor ingrasa un número válido."
+    "Please enter a valid phone number.": "Bitte gib eine gültige Telefonnummer ein.", "Porfavor ingresa un número de teléfono válido."
+    "Please select an option.": "Bitte wähle eine Option aus.", "Porfavor selecciona una opción."
+    "Privacy Policy": "Datenschutzerklärung", "política de privacidad"
+    "Something went wrong validating your input": "Es ist etwas schief gelaufen beim Validieren deiner Eingabe.", "Algo salió mal validando tu entrada."
+    "Submit": "Absenden", "Enviar"
+    "This field is required.": "Dieses Feld ist erforderlich.", "Este campo es obligatorio."
+    "You have exceeded the maximum number of characters allowed.": "Du hast die maximale Anzahl von Zeichen überschritten.", "Has superado el número máximo de caracteres."
 }
